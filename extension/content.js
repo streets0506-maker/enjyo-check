@@ -1,6 +1,6 @@
 // X（twitter.com）のツイート入力欄を監視して炎上リスクをチェックする
 
-const API_URL = "https://enjyo-check.vercel.app/api/check";
+const API_URL = "https://api-psi-flax-57.vercel.app/api/check";
 const DEBOUNCE_MS = 1200;
 const MIN_LENGTH = 10;
 
